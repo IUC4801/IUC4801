@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello, folks! 👋, I'm Ayushi Chaudhuri</h1>
+<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ayushi Chaudhuri</h1>
 <h3 align="center">A cybersecurity and network security enthusiast from India. I am currently in the pre-final year of my B.Tech in CSE with specialization in Cybersecurity and Digital Forensics.</h3>
 
 
