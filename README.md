@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Cybersecurity**
 
-- 📫 Reach me at **ayushichaudhuri10@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bc7QjISzW0kxxNlhscss3kCaJ8cj2H5L/view?usp=sharing)
 
 - ⚡ **I like to travel and love to watch football!**
