@@ -4,7 +4,7 @@
 <h3 align="center">A cybersecurity and network security enthusiast from India. I am currently in the pre-final year of my B.Tech in CSE with specialization in Cybersecurity and Digital Forensics.</h3>
 
 
-- 🌱 I’m currently learning **OSINT**
+- 🌱 I’m currently learning **Blue Teaming**
 
 - 💬 Ask me about **Cybersecurity**
 
