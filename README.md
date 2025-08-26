@@ -2,7 +2,9 @@
  
  I'm [**Ayushi**](https://ayushi-chaudhuri-portfolio.vercel.app/), a software engineer from Bangalore, India.
 
- I currently work as a software engineer at [**@Adobe**](https://github.com/adobe), where I build new features and optimize performance of Adobe Illustrator.
+ I currently work as a software engineer at [**@Microsoft**](https://github.com/microsoft), where I work on AI Agents and build and ship new features to an internal tool, used by millions of tenants.
+ 
+ I previously interned and worked as a software engineer at [**@Adobe**](https://github.com/adobe), where I have built new features and optimized performance of Adobe Illustrator.
  
 I'm fascinated by large-scale, high-impact products, and I've worked on both industry-leading services and applications with over 100M+ installations. I've helped deploy key features and automate processes in high-traffic customer-facing applications.
  
